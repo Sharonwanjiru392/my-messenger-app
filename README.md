@@ -32,6 +32,4 @@ Developed Sampark, a secure messaging application using Flutter, Dart, and GetX 
 
 
 
-## Follow
-[**LINKEDIN**](https://www.linkedin.com/in/mrnitishkr/) | [**LIVE LINK**](https://mrnitishroy.github.io/Sampark/) | [**YOUTUBE**](https://www.youtube.com/watch?v=ezhBkc_gHDs&list=PLe9ZTrJrS7SmYGBICVGMUMoIVz2Jf9zeq&pp=iAQB) |  [**GITHUB**](https://github.com/MrNitishroy) | 
-[**UI DESIGN**](https://www.figma.com/design/C9SJW6Fxn2INXkwK4IfId5/SMPARK?node-id=83-79&t=6lNkQGaNfEhq82xa-1)
+
